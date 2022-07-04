@@ -30,7 +30,8 @@ Mobile view
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://visionary-gnome-1e15c6.netlify.app/](https://visionary-gnome-1e15c6.netlify.app/)
+- [Front End Mentor Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## My process
 
