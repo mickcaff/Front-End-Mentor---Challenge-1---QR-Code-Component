@@ -26,7 +26,7 @@ Desktop view
 
 Mobile view
 
-![QR Code challenge completed by Mick Caffery - Mobile view](./images/final-mobile.png)
+<img src="./images/final-mobile.png" alt="QR Code challenge completed by Mick Caffery - Mobile view" width="400px">
 
 ### Links
 
@@ -42,9 +42,9 @@ Mobile view
 
 ### What I learned
 
-This was my first Front-End Mentor challenge. I found the challenge quite straight forward. 
+This was my first Front-End Mentor challenge. I chosed to complete their recommended 'first challenge' to test out the Front-End Mentor platform.
 
-I chose not to use flexbox and used `text-align: center` and `margin: auto` to center the elements. 
+In regards to the QR component, I used `text-align: center` and `margin: auto` to center the elements. An alternative way would of been to use flexbox.
 
 For the **footer**, I learnt that elements can be fixed to the bottom of the viewport using `bottom: 0`.
 
