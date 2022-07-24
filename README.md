@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [Screenshots](#screenshots)
+    - [Solution Screenshots](#solution-screenshots)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshots
+### Solution Screenshots
 
 Desktop view
 
@@ -43,9 +43,9 @@ Mobile view
 
 ### What I learned
 
-This was my first Front-End Mentor challenge. I chosed to complete their recommended 'first challenge' to test out the Front-End Mentor platform.
+This was my first Front-End Mentor challenge. I chose to complete their recommended 'first challenge' to test out the Front-End Mentor platform.
 
-In regards to the QR component, I used `text-align: center` and `margin: auto` to center the elements. An alternative way would of been to use flexbox.
+In regards to the QR component, I used `text-align: center` and `margin: auto` to center the elements. An alternative way would have been to use flexbox.
 
 For the **footer**, I learnt that elements can be fixed to the bottom of the viewport using `bottom: 0`.
 
