@@ -2,13 +2,18 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+#### Link
+
+- My Solution Live Site URL: [https://visionary-gnome-1e15c6.netlify.app/](https://visionary-gnome-1e15c6.netlify.app/)
+
+
 ## Table of contents
 
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+      - [Link](#link)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Solution Screenshots](#solution-screenshots)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -28,10 +33,6 @@ Mobile view
 
 <img src="./images/final-mobile.png" alt="QR Code challenge completed by Mick Caffery - Mobile view" width="400px">
 
-### Links
-
-- Live Site URL: [https://visionary-gnome-1e15c6.netlify.app/](https://visionary-gnome-1e15c6.netlify.app/)
-- [Front End Mentor Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## My process
 
